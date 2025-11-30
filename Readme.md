@@ -145,14 +145,17 @@ Data Science, Department of CSE
 **Github:** github.com/Abishek2k04
 ---
 **Confusion Matrix**
+
 <img width="500" height="500" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/6615fa1c-971c-4fea-b937-81b9f0b17c25"/>
 
 ---
 **This Comparison Shows CNN vs CRNN**
+
 <img width="500" height="500" alt="final_comparison_chart" src="https://github.com/user-attachments/assets/5e61b8dd-469e-4f29-8aed-2e6dcaf37234" />
 
 ---
 **Training and Testing Accuracy&Loss**
+
 <img width="500" height="500" alt="training_plot" src="https://github.com/user-attachments/assets/9d24dfe1-4adb-4989-bb3a-6623cc21fadf" />
 
 --
