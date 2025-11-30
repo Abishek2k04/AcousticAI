@@ -164,9 +164,7 @@ streamlit run 07_dashboard.py
 ---
 
 **if you occur any query just mail**
-<p>
-  <a href="mailto:abishekofficial204@gmail.com?subject=System%20Project%20Inquiry">
-    Send Email
-  </a>
-</p>
+
+<a href="mailto:abishekofficial204@gmail.com?subject=ATM%20Security%20System%20Project%20Inquiry">Send Email</a>
+
 
