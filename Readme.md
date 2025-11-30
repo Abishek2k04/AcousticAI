@@ -158,5 +158,6 @@ Data Science, Department of CSE
 
 <img width="350" height="350" alt="training_plot" src="https://github.com/user-attachments/assets/9d24dfe1-4adb-4989-bb3a-6623cc21fadf" />
 
---
+---
 
+# THANKSYOU
